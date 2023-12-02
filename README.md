@@ -25,6 +25,7 @@ How to Use:
 * 		Execute npm start to launch the application locally.
 Demonstration:
 
+[![Watch the Video](https://img.youtube.com/vi/JgM2CVMh8xc/maxresdefault.jpg)](https://youtu.be/JgM2CVMh8xc)
 
 Feel free to explore, contribute, or adapt this project to suit your learning needs. I welcome any feedback or suggestions for improvement.
 Happy learning! 🚀✨
